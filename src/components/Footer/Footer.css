@@ -77,6 +77,9 @@
         flex-direction: column;
         gap: 50px;
     }
+    .footer-top-right{
+        flex-direction: column;
+    }
     .footer-bottom{
         display: flex;
         flex-direction: column-reverse;
