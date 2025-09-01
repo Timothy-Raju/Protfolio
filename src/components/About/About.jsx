@@ -14,8 +14,8 @@ function About() {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti dolorum velit, quis ex facere, quasi ipsa sunt fugiat enim suscipit ab ipsam! Molestias, neque esse fugit.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto porro officia qui vitae laudantium alias eius amet commodi.</p>
+                <p>Hi, I’m Thimothi Raju, a passionate Computer Science Engineering student with a strong interest in full-stack development, cloud technologies, and problem solving. I enjoy building projects that combine creativity and technology, from web applications to IoT-based solutions.</p>
+                <p>My current focus is on learning the MERN stack, working on projects that showcase my skills in React, Node.js, Express, and MongoDB. I’m also exploring cloud computing (AWS, OCI, multi-cloud concepts) and AI/ML basics to broaden my technical expertise.</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
